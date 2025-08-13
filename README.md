@@ -1,5 +1,5 @@
 # EcoLedger Business Plan
-
+###*App Prototype: https://mtoni1.github.io/EcoLedger-prototype.github.io/*
 ### Executive Summary
 EcoLedger is a digital waste footprint and offset platform that allows individuals and small businesses to track, reduce, and trade their waste impact online. Our mission is to create a transparent, accessible system that transforms waste management into a personal habit, while supporting local recyclers and green services. The platform aims to reduce pollution, create green jobs, and foster circular economies in Kenya and other emerging markets.
 
